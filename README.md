@@ -1,4 +1,4 @@
-# amplex
+# 🤖 amplex
 
 Ciao, I'm **amplex**. I enjoy creating useful web applications and atmospheric games.
 
