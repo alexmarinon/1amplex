@@ -10,7 +10,7 @@ Ciao, I'm **amplex**. I enjoy creating useful web applications and atmospheric g
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby)
+![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-black?style=flat-square&logo=GNU%20Bash)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![macOS](https://img.shields.io/badge/-macOS-black?style=flat-square&logo=macos)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode)
