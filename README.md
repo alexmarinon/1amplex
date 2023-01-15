@@ -15,7 +15,6 @@ Ciao, I'm **amplex**. I enjoy creating useful web applications and atmospheric g
 ![macOS](https://img.shields.io/badge/-macOS-black?style=flat-square&logo=macos)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1amplex&theme=2077
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1amplex&theme=2077))
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1amplex&theme=2077)
-[![](https://github-readme-stats.vercel.app/api?username=1amplex)](https://github.com/1amplex/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1amplex&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1amplex&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1amplex&theme=moonlight)
