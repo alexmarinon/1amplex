@@ -1,7 +1,5 @@
 # 👋🤖 amplex
 
-Ciao, I'm **amplex**. I enjoy creating useful web applications and atmospheric games.
-
 ## Current Projects
 - **Urban Arts**, focused on creating open world and interactive games.
 - **Exodus**, an open world survival game centred around scavenging and welding. You drag materials and weld them to create defensive structures, or craft them to create makeshift guns.
