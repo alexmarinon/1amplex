@@ -2,7 +2,7 @@
 
 ## Current Projects
 - **Urban Arts**, focused on creating open world and interactive games.
-- **Exodus**, an open world survival game centred around scavenging and welding. You drag materials and weld them to create defensive structures, or craft them to create makeshift guns.
+- **G.O.A.T**, a live VALORANT match tracker to see who you're competing against (a Python-based continuation of the original WAIUA).
 - **SuperWings**, a TypeScript bot which fetches information from a Firebase real-time database, returning information such as awards, aircraft statistics, or prominent players of the SuperWings championships.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
