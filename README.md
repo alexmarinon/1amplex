@@ -1,9 +1,8 @@
 # 👋🤖 amplex
 
 ## Current Projects
-- **Urban Arts**, focused on creating open world and interactive games.
 - **G.O.A.T**, a live VALORANT match tracker to see who you're competing against (a Python-based continuation of the original WAIUA).
-- **SuperWings**, a TypeScript bot which fetches information from a Firebase real-time database, returning information such as awards, aircraft statistics, or prominent players of the SuperWings championships.
+- **CAROLINA** Python web-based query server for fetching information in specific games && a framework for moderation inside them.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
